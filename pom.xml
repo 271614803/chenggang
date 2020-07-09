@@ -5,7 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.kgc</groupId>
+<<<<<<< HEAD
     <artifactId>demo10</artifactId>
+=======
+
+    <artifactId>demo6</artifactId>
+
+>>>>>>> aef7ce2ff1bac6cb088a673e3c476db5e25d204c
     <version>1.0-SNAPSHOT</version>
 
 
